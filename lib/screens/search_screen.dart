@@ -20,7 +20,7 @@ class SearchScreen extends StatelessWidget {
           Gap(AppLayout.getHeight(40)),
           FittedBox(
             child: Container(
-            padding: EdgeInsets.all(AppLayout.getHeight(3.5)),
+            padding: EdgeInsets.all(AppLayout.getHeight(3.5) ),
             child: Row(
               children: [
                 Container(
